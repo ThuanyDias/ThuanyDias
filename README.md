@@ -11,8 +11,9 @@ Sou uma programadora frot-end, atualmete estou aprendendo e criando projetos com
 <br>
 Meus Contatos<br>
 
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> thuanydiasgomes@gmail.com 
+- <img src=":e-mail:"> thuanydiasgomes@gmail.com 
 <br>
+<img src=":telephone_receiver:"> (21) 98573-2636
 
 ![Thuany GitHub stats](https://github-readme-stats.vercel.app/api?username=ThuanyDias&show_icons=true&theme=transparent)
 
