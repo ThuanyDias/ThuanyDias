@@ -1,6 +1,6 @@
 ## Ola :v:
 
-Sou uma programadora frot-end, atualmete estou aprendendo e criando projetos com:
+Sou uma programadora Frot-End, atualmete estou aprendendo e criando projetos com:
 <br>
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br>
@@ -10,7 +10,7 @@ Sou uma programadora frot-end, atualmete estou aprendendo e criando projetos com
  </a> 
 <br>
 <br>
-Meus Contatos<br>
+Meus Contatos:<br>
 
 :e-mail: thuanydiasgomes@gmail.com 
 <br>
