@@ -1,7 +1,9 @@
 <!-- Banner -->
+
 <p align="center">
-  <img src=https://github.com/ThuanyDias/ThuanyDias/blob/main/img.png?raw=true="Thuany Dias - Banner personalizado">
+  <img src="https://github.com/ThuanyDias/ThuanyDias/blob/main/img.png?raw" width="100%" alt="Banner pessoal">
 </p>
+
 
 ---
 
